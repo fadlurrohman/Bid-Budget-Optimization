@@ -1,4 +1,4 @@
-# Project 2 – Bid & Budget Optimization Across Channels
+# Bid & Budget Optimization Across Channels
 
 This project simulates a portfolio of campaigns across channels with different bids and budgets.
 We:
